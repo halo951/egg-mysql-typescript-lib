@@ -1,0 +1,13 @@
+{
+  "name": "egg-mysql-typescript-lib",
+  "version": "1.0.1",
+  "description": "egg-mysql typescript .d.ts",
+  "main": "index.js",
+  "author": "Halo",
+  "license": "MIT",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a951055/egg-mysql-typescript-lib.git"
+  }
+}
