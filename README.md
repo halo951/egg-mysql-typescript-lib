@@ -1,5 +1,7 @@
 # egg-mysql typescript .d.ts 文件
 
+> (deprecated) 这个项目有段时间没维护了, 建议 fork 下来使用.
+
 ### version
 
 - 1.0.1
